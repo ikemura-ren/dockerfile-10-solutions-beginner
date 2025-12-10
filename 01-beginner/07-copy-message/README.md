@@ -4,10 +4,10 @@
 
 ## 要件
 - ベースイメージ：Alpine Linux
+- `message.txt`を作成して、中に適切な文字を入力する
 - 同じディレクトリにある `message.txt` をコンテナ内にコピーする
 - コンテナ実行時に `message.txt` の中身を出力する
 - 出力結果：`Hello from COPY`
-  ※ `message.txt` の内容は書き換えないでください
 
 ## 変更するファイル
 - Dockerfile
