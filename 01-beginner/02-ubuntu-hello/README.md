@@ -10,7 +10,7 @@ Ubuntuの概要はご自身でググって調べましょう。
 
 
 ## 要件
-- ベースイメージ：Ubuntu（例：`ubuntu:22.04`）
+- ベースイメージ：Ubuntu（22.04）
 - 出力結果：`Hello Docker!! && Hello Ubuntu!!`
 
 ## 書き込むファイル
