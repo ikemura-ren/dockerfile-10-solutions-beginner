@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 set -euo pipefail
-TAG="q07"
-EXPECTED="Hello from COPY"
+TAG="q09"
+EXPECTED="Hello from script"
 
 cd "$(dirname "$0")"
 

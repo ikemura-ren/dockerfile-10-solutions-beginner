@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 set -euo pipefail
-TAG="q07"
-EXPECTED="Hello from COPY"
+TAG="q08"
+EXPECTED="Hello from multi RUN"
 
 cd "$(dirname "$0")"
 
