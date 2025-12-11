@@ -9,3 +9,5 @@
   ```sh
   #!/bin/sh
   echo "Hello from script"
+- コンテナ起動時に、hello.shを実行させる
+- 権限に気をつけましょう！
