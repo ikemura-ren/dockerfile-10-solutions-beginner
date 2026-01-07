@@ -8,7 +8,7 @@ Dockerfile10本ノック（beginner向け）の最初のステップです！
 
 **要件**
 - ベースイメージ：Alipine Linux
-- 出力結果：Hello Dokcer!!
+- 出力結果：Hello Docker!!
 
 ## 変更するファイル
 - Dockerfile
