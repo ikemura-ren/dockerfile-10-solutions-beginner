@@ -7,7 +7,7 @@ Dockerfile10本ノック（beginner向け）の最初のステップです！
 さて、こちらの問題では、コンテナを動かして、画面にHello World!!を出力して終了するコンテナを作成していただきます。
 
 **要件**
-- ベースイメージ：Alipine Linux
+- ベースイメージ：Alpine Linux
 - 出力結果：Hello Docker!!
 
 ## 変更するファイル
